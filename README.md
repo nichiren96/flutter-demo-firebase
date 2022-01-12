@@ -1,2 +1,1 @@
-# cuisine
-
+# Demo App Flutter + Firebase
